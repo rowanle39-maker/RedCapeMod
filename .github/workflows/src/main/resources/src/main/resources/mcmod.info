@@ -1,0 +1,15 @@
+[
+{
+  "modid": "redcape",
+  "name": "Red Cape Mod",
+  "description": "Herkese görünen, özgün tasarımlı düz bordo/kırmızı cape ekler.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "authorList": ["you"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
